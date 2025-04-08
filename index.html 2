@@ -1,11 +1,11 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Exemplo de Imagem</title>
+    <title>Imagem do GitHub</title>
 </head>
 <body>
-    <h1>Minha Imagem Favorita</h1>
-    <p>Veja esta imagem incrível:</p>
-    <img src="teste/imagem.jpg" alt="Descrição da imagem">
+    <h1>Exemplo com Imagem</h1>
+    <p>Esta é uma imagem do meu repositório:</p>
+    <img src="teste/imagem.jpg.jpg" alt="Descrição da imagem">
 </body>
 </html>
