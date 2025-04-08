@@ -6,6 +6,6 @@ DOCTYPE html>
 <body>
     <h1>Minha Imagem Favorita</h1>
     <p>Veja esta imagem incrível:</p>
-    <img src="imagem.jpg" alt="Descrição da imagem">
+    <img src="/teste/imagem.jpg.jpg" alt="Descrição da imagem">
 </body>
 </html>
